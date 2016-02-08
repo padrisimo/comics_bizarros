@@ -1,0 +1,85 @@
+//**
+// Homepage
+//**
+.about{
+    background: #ffaa00 ;
+    padding: 2.6em;
+}
+
+.bizarrotext {
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    color:#ea2f0a;
+    line-height: 1;
+}
+.bizarrotextnigga {
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    color:black;
+    line-height: 1;
+}
+.bizarroyelow{
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    color:#ffff00;
+    line-height: 1;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.comics{
+    padding-top: 1em;
+}
+.logo {
+    text-align: center;
+    background: url(../img/head.png) no-repeat center center fixed ;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    width: 100% ;
+    overflow: hidden;
+}
+.logo img{
+    max-width: 20%;
+    margin:1em;
+}
+
+.tebeo img{
+    width: 100%;
+}
+.tebeo h3{
+    line-height: 1;
+    color:#ea2f0a;
+    font-weight: bolder;
+}
+
+.niggalo{
+    text-align: center;
+    font-weight: bolder;
+    color: black ;
+}
+
+.contacto {
+    background:#333333;
+    color:white;
+    padding: 1em;
+}
+
+.mensaje{
+    padding-left: 1em;
+}
+
+// Responsive styles if needed
+// @include responsive($big-break) {
+// }
+// @include responsive($small-break) {
+// }
+
+// Mobile first styles if needed
+// @include mobilefirst($big-break) {
+// }
+// @include mobilefirst($small-break) {
+// }

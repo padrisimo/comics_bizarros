@@ -4,5 +4,5 @@
 	<img src="http://padrisimo.esy.es/ouyea/webtami.jpg" alt="design"/>
 </p>
 
-> A simple [motherplate](https://github.com/leemunroe/motherplate) that I use to adapt an old design of [Tamara Ramudo](http://tamarart.github.io) to a funcional site for the Comics Stuff.
+> A simple [motherplate](https://github.com/leemunroe/motherplate) that I use to adapt an design of an external Visual Designer (who actually refuse the credits because she feel ashamed of it) to a funcional site for the Comics Stuff.
 

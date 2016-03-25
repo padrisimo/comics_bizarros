@@ -2334,6 +2334,48 @@ a .icon-flip-vertical:before {
 .mensaje {
   padding-left: 1em; }
 
+.lory img {
+  width: 100%;
+  height: auto; }
+
+.more img {
+  width: 143px;
+  height: 58px; }
+
+.more {
+  width: 100%;
+  text-align: center;
+  padding-bottom: 2em; }
+
+a:hover {
+  opacity: 0.6;
+  filter: alpha(opacity=60); }
+
+.com img {
+  max-width: 219px; }
+
+.com {
+  text-align: center; }
+
+.about p {
+  text-align: center; }
+
+.men {
+  text-align: center; }
+
+.men p {
+  text-align: left;
+  padding-left: 3em; }
+
+input {
+  color: black; }
+
+textarea {
+  color: black; }
+
+input[type="submit"] {
+  min-width: 300px; }
+
 @media screen and (max-width: 780px) {
   body {
     overflow-x: hidden; } }

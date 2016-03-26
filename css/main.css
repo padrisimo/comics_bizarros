@@ -2377,13 +2377,13 @@ input[type="submit"] {
   min-width: 300px; }
 
 body {
-  margin: 0 0 -100px;
+  margin: 0 0 -300px;
   /* bottom = footer height */ }
 
 footer {
   margin-top: -5em;
   background-color: #333333;
-  height: 100px;
+  height: 150px;
   color: white;
   text-align: center;
   font-size: 80%; }
@@ -2391,6 +2391,15 @@ footer {
 footer a {
   text-decoration: none;
   color: white; }
+
+.linkos a {
+  text-decoration: none;
+  color: white; }
+
+.linkos {
+  text-align: center;
+  padding-top: 5em;
+  letter-spacing: 0.3em; }
 
 @media screen and (max-width: 780px) {
   body {

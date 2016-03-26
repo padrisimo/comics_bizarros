@@ -123,13 +123,13 @@ input[type="submit"]{
 }
 
 body{
-    margin: 0 0 -100px; /* bottom = footer height */
+    margin: 0 0 -300px; /* bottom = footer height */
 }
 
 footer{
     margin-top: -5em;
     background-color:#333333;
-    height: 100px;
+    height: 150px;
     color: white;
     text-align: center;
     font-size:80%;
@@ -140,6 +140,16 @@ footer a{
     color:white;
 }
 
+.linkos a {
+    text-decoration: none;
+    color:white;
+}
+
+.linkos{
+    text-align: center;
+    padding-top:5em;
+    letter-spacing: 0.3em;
+}
 
 
 

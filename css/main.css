@@ -2367,6 +2367,11 @@ a:hover {
   text-align: left;
   padding-left: 3em; }
 
+.success {
+  text-align: center;
+  display: none;
+}
+
 input {
   color: black; }
 
